@@ -2,7 +2,6 @@
   "name": "porta-arquitectura",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
   "dependencies": {
     "@supabase/supabase-js": "^2.101.1",
     "@testing-library/jest-dom": "^5.17.0",
