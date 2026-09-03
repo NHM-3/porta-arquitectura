@@ -17,7 +17,7 @@ function Navbar() {
           <Link className="navbar-brand" to="/">
             <img
               src={process.env.PUBLIC_URL + '/LogoNHM3.png'}
-              alt="Mi Imagen"
+              alt="NHM3 Arquitectura y Diseño"
               style={{ width: '94px', height: '72px' }}
             />
           </Link>
